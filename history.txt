@@ -1,0 +1,273 @@
+    1  d:
+    2  cd D:
+    3  ls
+    4  cd 'Redwood-Group Internship'
+    5  cd redwood-group-training
+    6  git init
+    7  git config --global user.name "Mpho Mamphoke"
+    8  git config --global user.email "mphomamphoke@outlook.com"
+    9  git remote add origin https://github.com/sayfo1809/redwood-group-training
+   10  ls
+   11  git pull
+   12  ls
+   13  dir
+   14  git pull https://github.com/sayfo1809/redwood-group-training master
+   15  git fetch origin master
+   16  git fetch origin https://github.com/sayfo1809/redwood-group-training
+   17  git fetch origin redwood-group-training
+   18  git pull remote
+   19  clear
+   20  git pull origin
+   21  git pull origin masster
+   22  git pull origin master
+   23  git pull origin main
+   24  ls
+   25  less README.md
+   26  clear
+   27  clear
+   28  ls
+   29  cd d:
+   30  cd 'Redwood-Group Internship'
+   31  cd redwood-group-training
+   32  ls
+   33  git add --all
+   34  git status
+   35  git commit -m "working with Masindi"
+   36  git push origin main
+   37  git push -u origin main
+   38  git push -u origin
+   39  git push --setiupstream origin main
+   40  git push --setiupstream origin master
+   41  git push --setup-stream origin master
+   42  clear
+   43  git -u origin main
+   44  git push --set-upstream origin main
+   45  git push --set-upstream origin master
+   46  git push --setup-upstream origin master
+   47  git push --set-upstream origin master
+   48  git reset
+   49  git status
+   50  /d
+   51  /d/'Redwood-group training'/
+   52  clear
+   53  ls -a
+   54  cd documents
+   55  ls
+   56  ls il
+   57  li -l
+   58  ls -i
+   59  ls -a
+   60  clear
+   61  touch README.md
+   62  ls
+   63  edit README.md
+   64  less README.md
+   65  emacs README.md
+   66  vim README.md
+   67  git add --all
+   68  git status
+   69  git status
+   70  clear
+   71  clear
+   72  git status
+   73  git restore
+   74  git reset
+   75  git status
+   76  git add --all
+   77  git status
+   78  clear
+   79  git commit -m "First commit"
+   80  git push -u origin
+   81  git push -u origin master
+   82  git push -u origin main
+   83  git push -u origin master
+   84  cd 
+   85  ls
+   86  cd desktop
+   87  mkdir working-with-gift && cd "&_"
+   88  cd -
+   89  cd ~
+   90  git init
+   91  git remote add origin htttps://github.com/sayfo1809/redwood-backend-dev
+   92  git pull origin main
+   93  git remote add origin https://github.com/sayfo1809/redwood-backend-dev
+   94  git remote add mpho https://github.com/sayfo1809/redwood-backend-dev
+   95  git pull mpho main
+   96  ls
+   97  git add .
+   98  git status
+   99  git reset
+  100  git status
+  101  git add .
+  102  git status
+  103  clear
+  104  git commit -m "My first commit"
+  105  git push -u mpho 
+  106  git push -u mpho main
+  107  git push -u mpho master
+  108  git remote
+  109  git remote get-url
+  110  git remote get-url --all
+  111  git remote get-url --all mpho
+  112  git remote get-url --push mpho
+  113  git ls-remote mpho
+  114  git get-url --all origin
+  115  git remote get-url --all origin
+  116  clear
+  117  git push --set-upstream origin
+  118  git remote get-url origin
+  119  git remote set-url origin https://github.com/sayfo1809/redwood-backend-dev
+  120  git remote get-url origin
+  121  git push --set-upstream origin
+  122  clear
+  123  git init
+  124  git remote add origin https://github.com/Sayfo1809/Training-App-V1.git
+  125  git pull origin main
+  126  git push --set-upstream origin main
+  127  git push --set-upstream origin master
+  128  git status
+  129  clear
+  130  git status
+  131  git add --all
+  132  git status
+  133  clear
+  134  git push
+  135  git push -u origin main
+  136  git push -u origin master
+  137  git status
+  138  git commit -m "First commit"
+  139  git push
+  140  clear
+  141  mkdir project-2
+  142  cd project-2
+  143  echo "#Project 2 \n This is another project" > README.md
+  144  ls
+  145  less README.md
+  146  git add .
+  147  git add --all
+  148  git status
+  149  git commit -m "REadme"
+  150  git push
+  151  git checkout
+  152  cp 'Meter Reading_Re-installation.docx' D:/
+  153  ssh 1a07dd6b5a2d@1a07dd6b5a2d.32fbd0b4.alx-cod.online
+  154  ls
+  155  cd C:\Users\mphom\OneDrive\Desktop\ALX Work
+  156  ls
+  157  ls
+  158  cd /
+  159  ls
+  160  cd C:
+  161  ls
+  162  cd users
+  163  ls
+  164  cd mphom
+  165  ls
+  166  cd desktop
+  167  ls -l
+  168  git clone https://github.com/Sayfo1809/frontend_mentors_challenges.git
+  169  ./code
+  170  code .
+  171  cd basic-website/
+  172  code .
+  173  code .
+  174  code
+  175  code .
+  176  ls
+  177  clear
+  178  git clone https://github.com/Sayfo1809/umuzi-bootcamp.git
+  179  git clone https://github.com/Sayfo1809/umuzi-bootcamp.git
+  180  clear
+  181  git clone ssh://git@github.com:Sayfo1809/umuzi-bootcamp.git
+  182  git clone ssh://git@github.com/Sayfo1809/umuzi-bootcamp.git
+  183  git clone ssh://git@github.com/Sayfo1809/umuzi-bootcamp.git
+  184  clear
+  185  ls
+  186  mkdir ubuntu-bootcamp
+  187  cd ubuntu-bootcamp/
+  188  git init
+  189  clear
+  190  git clone ssh://git@github.com:Sayfo1809/umuzi-bootcamp.git
+  191  ls
+  192  clear
+  193  ls /
+  194  man ls
+  195  ls man
+  196  clear
+  197  ls ?
+  198  ls?
+  199  clear
+  200  man ls
+  201  clear
+  202  ls -F
+  203  clear
+  204  ls /
+  205  ls -p
+  206  ls /
+  207  cd /
+  208  ls
+  209  LICENSE.txt
+  210  clear
+  211  cd ..
+  212  ls
+  213  ls
+  214  ls -a
+  215  clear
+  216  ls -a
+  217  clear
+  218  git init
+  219  ls -a
+  220  clear
+  221  git status
+  222  touch README.md
+  223  ls -a
+  224  clear
+  225  git status
+  226  clear
+  227  git log
+  228  git add 
+  229  git add --all
+  230  clear
+  231  git status
+  232  clear
+  233  git commit -m "initial commit"
+  234  git log
+  235  nano README.md
+  236  y
+  237  cat README.md
+  238  clear
+  239  git status
+  240  git commit -m "second commit"
+  241  git add README.md 
+  242  git commit -m "second commit"
+  243  clear
+  244  git add README.md 
+  245  git commit -m "third commit"
+  246  git log
+  247  git checkout b4ec5d25c2307ddb77912c2377ad1ff8cd91e3ba1
+  248  git checkout b4ec5d25c2307ddb77912c2377ad1ff8cd91e3ba1~
+  249  clear
+  250  cat README.md 
+  251  git checkout main
+  252  git branch
+  253  git branch milkshake-flavours
+  254  git branch
+  255  git checkout milkshake-flavours 
+  256  clear
+  257  git branch
+  258  nano milkshakes.md
+  259  git status
+  260  clear
+  261  git add milkshakes.md && commit -m "added initial flavours"
+  262  git commit -m "added initial flavours"
+  263  clear
+  264  git log
+  265  clear
+  266  git checkout main
+  267  clear
+  268  git branch history
+  269  git branch
+  270  git checkout history 
+  271  git log
+  272  clear
+  273  history > history.txt
